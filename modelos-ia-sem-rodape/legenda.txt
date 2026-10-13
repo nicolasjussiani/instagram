@@ -1,0 +1,32 @@
+Qual IA usar em cada situação? 💻
+
+A escolha começa pela tarefa. Separei seis opções em três cenários de software:
+
+1. CÓDIGO NO DIA A DIA
+GPT-6.1 Sol ou Claude Sonnet 5.5.
+Opções para implementar funções, escrever testes e revisar mudanças. Experimente com uma tarefa bem definida do seu projeto.
+
+2. PROBLEMAS COMPLEXOS
+GPT-6 Astra ou Claude Opus 5.5.
+Considere esses modelos para investigar falhas difíceis, comparar alternativas de arquitetura e lidar com mudanças que exigem mais raciocínio. Forneça contexto, critérios e testes.
+
+3. AUTOMAÇÕES EM VOLUME
+GPT-6 Luna ou Gemini 3.5 Flash-Lite.
+Opções para tarefas delimitadas via API, como classificar textos e extrair dados simples. Avalie qualidade, tempo e custo por tarefa concluída.
+
+Essas indicações são pontos de partida baseados nas capacidades descritas pelos fabricantes. Compare os modelos no seu próprio caso e revise o resultado.
+
+Guia consultado em 11/10/2026. A disponibilidade depende da ferramenta e do plano.
+
+Salve para a próxima escolha. Qual desses você usa no seu projeto? 👇
+
+#InteligenciaArtificial #ModelosDeIA #Programacao #DesenvolvimentoDeSoftware #EngenhariaDaComputacao
+
+Fontes oficiais:
+OpenAI Sol: https://developers.openai.com/api/docs/models/gpt-6.1-sol
+Anthropic Sonnet: https://www.anthropic.com/claude/sonnet
+OpenAI Astra: https://developers.openai.com/api/docs/models/gpt-6-astra
+Anthropic Opus: https://www.anthropic.com/claude/opus
+OpenAI Luna: https://developers.openai.com/api/docs/models/gpt-6-luna
+Google Flash-Lite: https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite
+

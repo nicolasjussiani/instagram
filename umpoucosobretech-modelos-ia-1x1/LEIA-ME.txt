@@ -1,0 +1,16 @@
+CARROSSEL — @umpoucosobretech
+Modelos de IA por situação — formato quadrado 1:1
+
+Ordem de publicação:
+1. 01_capa.png
+2. 02_rotina.png
+3. 03_complexidade.png
+4. 04_volume.png
+
+As quatro imagens são quadradas e mantêm as fotos como fundo. O desfoque dos rostos permanece nas páginas 2 e 3.
+
+Sem rodapé inferior ou contadores de página. O perfil @umpoucosobretech aparece somente no topo da capa.
+
+Edição com a ferramenta integrada Image_gen, em modo de edição. Os prompts estão em prompts.json.
+
+legenda.txt contém a legenda sugerida e o contato fornecido. fontes.txt registra as fontes do conteúdo.

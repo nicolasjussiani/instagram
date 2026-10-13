@@ -1,0 +1,16 @@
+FONTES OFICIAIS — CONSULTADAS EM 11/10/2026
+
+1. GitHub — Automate repository tasks with GitHub Agentic Workflows
+Publicado em 13/02/2026.
+https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/
+Sustenta os exemplos de organização de issues, atualização de documentação, investigação de problemas e propostas de correção, além de limites, revisão humana e experimentos com relatórios.
+
+2. Anthropic — Building effective agents
+https://www.anthropic.com/engineering/building-effective-agents
+Sustenta a explicação de agentes como sistemas que usam ferramentas, observam resultados e dirigem os próximos passos, com testes, limites e critérios de parada.
+
+3. Anthropic — 2026 Agentic Coding Trends Report
+https://resources.anthropic.com/2026-agentic-coding-trends-report
+Sustenta a escolha de agentes no desenvolvimento de software como tema atual e a relevância da colaboração entre pessoas e IA.
+
+O carrossel é uma síntese educativa, sem reproduzir trechos dos artigos. Não afirma que todo agente tem todas as capacidades nem que resultados podem ser aceitos sem revisão.

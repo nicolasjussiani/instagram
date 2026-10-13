@@ -1,0 +1,9 @@
+{
+  "tool": "image_gen built-in",
+  "edit": "Desfoque localizado forte nos rostos das páginas 2 e 3",
+  "outputs": [
+    "02_rotina.png",
+    "03_complexidade.png"
+  ],
+  "prompt": "Use case: precise-object-edit.\nEDIT the supplied finished Instagram slide. Make one strictly localized change only: conceal the depicted person's ENTIRE face with a strong natural-looking Gaussian photographic privacy blur. Blur all facial features including eyes, glasses, nose, mouth, cheeks, chin and ears so NO facial features are discernible. Use a soft-edged oval photographic blur region restricted to head/face, with enough strength that identity cannot be read. Do not use a black bar, emoji, graphic, pixelated square, replacement face, repainting or synthetic person. Keep the real photo as full-bleed background. Preserve EVERY word and letter, typography, text locations, cyan underlines, colors, spacing, portrait dimensions, photo framing, body, hands, classroom and all other image areas EXACTLY. Do not move or rewrite any text. No other edits. The user's explicit request is to hide the face on this slide."
+}

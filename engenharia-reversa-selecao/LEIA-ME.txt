@@ -1,0 +1,24 @@
+ENGENHARIA REVERSA — SELEÇÃO FINAL
+
+Quatro páginas: capa e três projetos.
+
+Ordem das imagens:
+01_capa.png — selfie com jaqueta, escolhida pela nitidez do rosto e espaço para o título.
+02_ghidra.png — selfie no cinema, escolhida pela iluminação e espontaneidade.
+03_formato_binario.png — laboratório, escolhido pelo contexto técnico e espaço para o texto.
+04_circuito.png — Arduino, escolhido pelo contexto de hardware e composição.
+
+Fotografias de origem:
+WA_1780881173061.jpeg
+20260525_213133.jpg
+20260423_090725.jpg
+20260630_102908.jpg
+
+As imagens de origem foram usadas como base para edição de texto e composição com a ferramenta integrada image_gen, sem solicitar novos cenários ou troca de rostos. A edição generativa pode produzir diferenças em detalhes em relação aos arquivos originais.
+
+As fotos ilustram o carrossel e não afirmam que as pessoas retratadas estavam executando os projetos descritos.
+
+Use legenda.txt para copiar o texto do post. Os prompts da composição e da seleção final estão em prompts.json.
+
+Fonte técnica:
+Ghidra — projeto oficial: https://github.com/NationalSecurityAgency/ghidra

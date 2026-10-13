@@ -1,0 +1,23 @@
+CARROSSEL — FOTOS ESCOLHIDAS
+
+Quatro páginas sobre engenharia reversa de software, usando exclusivamente as quatro fotos indicadas na última solicitação.
+
+Ordem de publicação e fotografia de origem:
+01_capa.png — IMG-20260428-WA0024.jpg (evento)
+02_ghidra.png — IMG_20250423_102444702.jpg (sala de aula)
+03_depurador.png — WA_1782830982876.jpeg (refeição)
+04_bytes.png — FB_IMG_1782161462098.jpg (praia)
+
+Visual: títulos fortes, fonte monoespaçada de estilo código, texto branco, destaques em ciano #00E5FF e termos importantes sublinhados. Todas as páginas mantêm fotografia como fundo.
+
+O conteúdo é sobre software: análise estática com Ghidra, análise dinâmica com um depurador e interpretação de arquivos binários com Python.
+
+As fotos são fundos editoriais; não afirmam que as pessoas retratadas executavam os projetos descritos. A foto da sala de aula mantém seu contexto original.
+
+Ferramenta utilizada: image_gen integrada. A edição generativa foi solicitada para composição, corte e tipografia, mantendo as fotografias. Pode haver diferenças em detalhes em relação aos originais. O estilo da fonte não garante uso de um arquivo de fonte específico.
+
+legenda.txt contém a legenda pronta. prompts.json contém os prompts completos desta versão.
+
+Fontes técnicas consultadas:
+Ghidra: https://github.com/NationalSecurityAgency/ghidra
+GDB: https://sourceware.org/gdb/current/onlinedocs/gdb.html/

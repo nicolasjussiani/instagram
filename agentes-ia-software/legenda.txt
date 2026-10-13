@@ -1,0 +1,18 @@
+Agentes de IA: do pedido à execução 🤖💻
+
+Como a IA pode participar das tarefas de um projeto de software?
+
+Um agente pode usar ferramentas, observar resultados e decidir os próximos passos para avançar em um objetivo. Você define o contexto, as permissões e os limites da tarefa.
+
+Na rotina de desenvolvimento, alguns exemplos são:
+• organizar issues;
+• atualizar documentação;
+• investigar problemas e propor correções de código.
+
+Para começar, escolha uma tarefa pequena, defina como o resultado será avaliado e revise a saída. Um relatório do seu repositório pode ser um bom primeiro experimento.
+
+O trabalho de quem desenvolve inclui definir o problema, fornecer contexto e validar o que foi produzido.
+
+Salve para consultar depois. Qual tarefa você delegaria a um agente de IA? 👇
+
+#AgentesDeIA #InteligenciaArtificial #Software #DesenvolvimentoDeSoftware #Programacao

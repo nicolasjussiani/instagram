@@ -1,0 +1,18 @@
+CARROSSEL — @umpoucosobretech
+Modelos de IA por situação
+
+Imagens editadas com image_gen integrado (built-in), sem CLI. Prompts completos em prompts.json. Todas as imagens foram conferidas visualmente.
+
+Ordem de publicação:
+1. 01_capa.png
+2. 02_rotina.png
+3. 03_complexidade.png
+4. 04_volume.png
+
+Todas as páginas mantêm as fotos como fundo. As páginas 2 e 3 mantêm o desfoque forte dos rostos.
+
+O perfil @umpoucosobretech aparece somente no topo da capa. As quatro páginas ficam sem rótulo inferior e sem contadores de página.
+
+legenda.txt contém o texto sugerido para a publicação, o contato do LinkedIn fornecido e os links das seis fontes oficiais. fontes.txt registra as fontes e o critério editorial. Consulta: 11/10/2026.
+
+As opções de modelos são pontos de partida para testar conforme a tarefa; a disponibilidade varia por ferramenta e plano.

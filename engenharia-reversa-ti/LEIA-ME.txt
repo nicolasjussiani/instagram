@@ -1,0 +1,22 @@
+CARROSSEL — ENGENHARIA REVERSA / ESTILO TI
+
+Publique as quatro imagens na ordem:
+01_capa.png
+02_ghidra.png
+03_formato_binario.png
+04_circuito.png
+
+Tipografia: monoespaçada, com referência visual em JetBrains Mono. Títulos semibold, texto regular e rodapé pequeno.
+Cor de destaque: ciano claro #67E8F9.
+Cor do texto principal: branco #F4F4F5.
+Sublinhados finos nos termos principais, sem cobrir as letras.
+
+Destaques por página:
+01 — engenharia reversa.
+02 — executável e Ghidra.
+03 — formato, arquivo binário e Python.
+04 — circuito e placa desligada.
+
+Artes editadas com a ferramenta integrada image_gen a partir das imagens da versão anterior. O pedido de edição foi restrito à tipografia, cores e sublinhados. Como o processo é generativo, o resultado não garante preservação pixel a pixel ou uso de um arquivo de fonte específico.
+
+legenda.txt contém a legenda pronta. prompts.json contém os prompts completos desta edição.

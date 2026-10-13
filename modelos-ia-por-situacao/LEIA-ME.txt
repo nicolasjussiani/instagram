@@ -1,0 +1,17 @@
+CARROSSEL — QUAL IA USAR EM CADA SITUAÇÃO?
+
+Ordem:
+01_capa.png — foto do evento
+02_rotina.png — foto do jaleco
+03_complexidade.png — foto do professor
+04_volume.png — foto antiga na praia
+
+Somente as quatro fotografias autorizadas na última mensagem foram usadas como fontes. Todas as páginas têm fotografia em fundo completo, com tipografia monoespaçada, branco, ciano e palavras sublinhadas.
+
+Edição realizada com image_gen integrado (built-in), sem CLI. Os prompts completos estão em prompts.json e edicoes-rostos.json. As imagens foram inspecionadas visualmente após a geração.
+
+Os rostos das pessoas principais nas páginas 2 e 3 receberam desfoque forte, conforme solicitado. Capa e página da praia permanecem sem desfoque adicional.
+
+legenda.txt contém texto pronto para copiar e fontes oficiais.
+fontes.txt registra a pesquisa e os critérios das recomendações.
+

@@ -1,0 +1,23 @@
+AGENTES DE IA NO DESENVOLVIMENTO DE SOFTWARE
+
+Tema atualizado com base em publicações oficiais consultadas em 11/10/2026. Fontes e sustentação do conteúdo estão em fontes.txt.
+
+Publique as quatro imagens nesta ordem:
+01_capa.png — Agentes de IA: do pedido à execução.
+02_como_funcionam.png — Objetivo, ferramentas e feedback.
+03_aplicacoes.png — Aplicações na rotina de desenvolvimento.
+04_como_comecar.png — Comece pequeno e valide.
+
+Somente as quatro fotos indicadas pelo usuário servem de base, nesta ordem:
+IMG-20260428-WA0024.jpg (evento)
+IMG_20250423_102444702.jpg (sala de aula)
+WA_1782830982876.jpeg (refeição)
+FB_IMG_1782161462098.jpg (praia)
+
+Todas as páginas mantêm foto de fundo. Visual: títulos fortes, fonte monoespaçada de estilo código, ciano #00E5FF e sublinhados nas palavras principais.
+
+As fotografias são fundos editoriais; não afirmam que as pessoas retratadas estavam construindo ou usando agentes de IA.
+
+Ferramenta: image_gen integrada, para edição de texto e composição. A edição generativa pode apresentar diferenças de detalhes em relação às fotografias originais; o estilo de fonte não garante um arquivo tipográfico específico.
+
+legenda.txt contém o texto para publicar. prompts.json contém os prompts completos da edição.

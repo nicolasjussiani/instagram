@@ -1,0 +1,29 @@
+FONTES OFICIAIS — consultadas em 11/10/2026
+
+GPT-6.1 Sol — OpenAI
+https://developers.openai.com/api/docs/models/gpt-6.1-sol
+Documentado para código complexo e trabalho profissional, com custo inferior ao Astra.
+
+Claude Sonnet 5.5 — Anthropic
+https://www.anthropic.com/claude/sonnet
+A seção de casos de uso apresenta desenvolvimento cotidiano, funcionalidades, correção de bugs e revisão de código.
+
+GPT-6 Astra — OpenAI
+https://developers.openai.com/api/docs/models/gpt-6-astra
+Documentado para trabalho exigente, raciocínio complexo e programação.
+
+Claude Opus 5.5 — Anthropic
+https://www.anthropic.com/claude/opus
+A seção Advanced coding descreve trabalho longo em bases grandes, depuração, refatoração e revisão.
+
+GPT-6 Luna — OpenAI
+https://developers.openai.com/api/docs/models/gpt-6-luna
+Documentado como modelo eficiente para tarefas focadas em alto volume.
+
+Gemini 3.5 Flash-Lite — Google
+https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite
+Documentado para baixa latência e baixo custo, processamento em volume e extração simples de dados.
+
+CRITÉRIO EDITORIAL
+A divisão em três situações e os exemplos são uma síntese editorial das capacidades documentadas. São opções para experimentar, sem ranking entre empresas, benchmark próprio ou garantia de desempenho. Preços numéricos foram omitidos. Modelos e disponibilidade variam conforme produto/plano.
+

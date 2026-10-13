@@ -1,0 +1,19 @@
+5 projetos para aprender engenharia reversa 🔎💻
+
+Como um programa funciona por dentro? E o que uma placa revela quando você começa a seguir suas conexões?
+
+Estas são 5 ideias para transformar curiosidade em prática:
+
+1. Do C ao binário: compile um programa simples e compare seu código com o assembly.
+2. Explore um executável: use o Ghidra para identificar funções, strings e caminhos de execução.
+3. Siga a execução: observe seu programa com um depurador, usando breakpoints e inspecionando variáveis e memória.
+4. Decifre um formato: crie um arquivo binário e escreva um leitor em Python a partir da estrutura dos bytes.
+5. Mapeie um circuito: identifique componentes e conexões de uma placa simples, desligada, e desenhe o esquema.
+
+Engenharia reversa começa com uma pergunta: “como isso funciona?”
+
+Pratique com seus próprios programas, materiais de estudo e sistemas que você tem autorização para analisar. No portfólio, mostre suas hipóteses, descobertas e como você chegou a elas.
+
+Salve este post para começar pelo projeto 1. Qual deles você faria primeiro? 👇
+
+#EngenhariaDaComputacao #EngenhariaReversa #Programacao #Hardware #Ghidra

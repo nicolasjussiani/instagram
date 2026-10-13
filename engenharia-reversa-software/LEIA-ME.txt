@@ -1,0 +1,25 @@
+ENGENHARIA REVERSA DE SOFTWARE
+
+Quatro páginas em ordem:
+01_capa.png — Você usa. Mas sabe como funciona?
+02_ghidra.png — Análise estática de um executável.
+03_depurador.png — Análise dinâmica com um depurador.
+04_bytes.png — Interpretação de arquivos binários com Python.
+
+Direção visual: títulos curtos e grandes, fonte monoespaçada de estilo código, contraste alto, ciano #00E5FF e sublinhados nos termos principais.
+
+Todas as quatro páginas usam fotografias reais fornecidas como base:
+01 — selfie com jaqueta.
+02 — grupo no evento.
+03 — selfie no cinema.
+04 — selfie com jaqueta em outro enquadramento.
+
+O conteúdo das páginas é inteiramente sobre análise de software. As fotografias são fundos editoriais e não afirmam que as pessoas retratadas estavam executando os projetos descritos.
+
+Ferramenta utilizada: image_gen integrada. As fotos foram alvo de edição generativa e podem apresentar pequenas diferenças em relação aos originais. A referência visual de fonte não garante uso de um arquivo tipográfico específico.
+
+legenda.txt contém o texto pronto para publicação. prompts.json contém os prompts desta versão.
+
+Fontes técnicas consultadas:
+Ghidra: https://github.com/NationalSecurityAgency/ghidra
+GDB: https://sourceware.org/gdb/current/onlinedocs/gdb.html/

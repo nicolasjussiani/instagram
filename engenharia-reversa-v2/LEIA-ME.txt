@@ -1,0 +1,21 @@
+ENGENHARIA REVERSA — VERSÃO 2
+
+Sete páginas, uma fotografia fornecida por página:
+01_capa — selfie com jaqueta (WA_1780881173061.jpeg)
+02_codigo_em_c — selfie com óculos (WA_1781407187757.jpeg)
+03_ghidra — selfie no cinema (20260525_213133.jpg)
+04_debugger — foto da refeição (WA_1782830982876.jpeg)
+05_formato_binario — laboratório (20260423_090725.jpg)
+06_circuito — Arduino (20260630_102908.jpg)
+07_fechamento — grupo no evento (IMG-20260428-WA0024.jpg)
+
+As fotografias enviadas foram usadas como base das edições, sem solicitar novos cenários ou troca de rostos. A ferramenta integrada image_gen foi usada para montar as artes com texto; por ser uma edição generativa, pode haver diferenças em detalhes em relação aos arquivos originais.
+
+Publique os PNGs na ordem indicada. A legenda está em legenda.txt.
+Os prompts completos da edição estão em prompts.json.
+
+As fotos ilustram o carrossel e não afirmam que as pessoas retratadas estavam executando os projetos descritos.
+
+Fontes técnicas consultadas:
+Ghidra: https://github.com/NationalSecurityAgency/ghidra
+GDB: https://sourceware.org/gdb/current/onlinedocs/gdb.html/

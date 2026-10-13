@@ -1,0 +1,20 @@
+Você usa software todos os dias. Mas sabe como ele funciona por dentro? 🔎💻
+
+3 projetos para aprender engenharia reversa de software na prática:
+
+1. O que este programa faz?
+Abra um executável seu no Ghidra e mapeie funções, strings e decisões. Sua entrega: um mapa da lógica do programa.
+
+2. Pause. Inspecione. Entenda.
+Use um depurador para acompanhar a execução do seu programa. Coloque breakpoints, observe variáveis e siga as chamadas. Sua entrega: um fluxo explicado.
+
+3. Decifre os bytes.
+Crie um arquivo binário simples, investigue seus bytes e escreva um leitor em Python. Sua entrega: um leitor que interpreta a estrutura do arquivo.
+
+Engenharia reversa começa com curiosidade — e avança quando você transforma uma hipótese em algo que consegue verificar.
+
+Pratique com seus próprios programas ou com materiais que você tem autorização para analisar. Documente suas descobertas no portfólio.
+
+Salve para fazer depois. Qual projeto você começaria hoje? 👇
+
+#EngenhariaReversa #Software #Programacao #Ghidra #Python

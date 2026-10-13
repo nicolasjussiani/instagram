@@ -1,0 +1,10 @@
+{
+  "tool": "image_gen built-in",
+  "outputs": [
+    "01_capa.png",
+    "02_rotina.png",
+    "03_complexidade.png",
+    "04_volume.png"
+  ],
+  "prompt": "Use case: precise-object-edit / text-localization.\nEdit the supplied completed Instagram carousel image. Perform a tiny strictly localized removal at the VERY BOTTOM FOOTER ONLY:\n1) Remove the small white text \"modelos de IA • software\" from the bottom-left.\n2) Remove the small white page counter \"01 / 04\", \"02 / 04\", \"03 / 04\" or \"04 / 04\" from the bottom-right.\nInpaint ONLY the letter-shaped footer regions to reveal seamless photographic texture matching the immediate surrounding background. No crop, no resizing, no new panels, no new words, no other edits. Retain the full-bleed real photo background, exact portrait canvas dimensions 1086 x 1448, EVERY other word/letter, top dates, top section numbers, large headline, model names, spacing, cyan highlights and underlines EXACTLY. Preserve all people's appearances and the existing strong blurred faces on the laboratory and teacher slides, without reducing or removing that blur. Leave all pixels outside the footer letter regions unchanged. The user pointed to the bottom label/counter and requests that footer removed from all slides."
+}

@@ -1,0 +1,14 @@
+CARROSSEL — MODELOS DE IA POR SITUAÇÃO
+Versão sem rodapé
+
+Ordem de publicação:
+1. 01_capa.png
+2. 02_rotina.png
+3. 03_complexidade.png
+4. 04_volume.png
+
+As quatro páginas mantêm as fotos como fundo. A segunda e a terceira mantêm o desfoque forte dos rostos.
+
+Foram removidos de todas as páginas o texto inferior "modelos de IA • software" e a numeração inferior das páginas.
+
+legenda.txt contém a legenda sugerida para a publicação. fontes.txt registra as fontes do conteúdo.

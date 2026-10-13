@@ -1,0 +1,23 @@
+CARROSSEL — ENGENHARIA REVERSA
+
+Ordem de publicação: 01_capa, 02_codigo_em_c, 03_ghidra, 04_debugger, 05_formato_binario, 06_circuito.
+
+Fotografias sintéticas geradas com IA a partir das selfies fornecidas. Os cenários ilustram o assunto; não são registros de visitas ou atividades reais.
+
+Ferramenta: geração de imagens integrada (image_gen). Os prompts completos estão em prompts.json.
+
+Referência visual fornecida pelo usuário:
+https://www.instagram.com/p/DddA4OVkZkQ/?img_index=1
+Características adaptadas: fotografia em tela cheia, tipografia branca grande, uma ideia por página e linguagem direta.
+
+Fontes técnicas consultadas:
+Ghidra — projeto oficial: https://github.com/NationalSecurityAgency/ghidra
+GDB — manual oficial: https://sourceware.org/gdb/current/onlinedocs/gdb.html/
+
+Texto alternativo sugerido:
+01: Montagem gerada com IA do autor em uma mesa de estudos, com o título “5 projetos para aprender engenharia reversa: do código ao hardware”.
+02: Montagem gerada com IA do autor em uma cafeteria. Projeto 1: compilar um programa em C e comparar seu código com o assembly.
+03: Montagem gerada com IA do autor em uma biblioteca. Projeto 2: explorar funções, strings e decisões de seu próprio programa com Ghidra.
+04: Montagem gerada com IA do autor à mesa de um computador. Projeto 3: usar um depurador para observar variáveis, memória e chamadas.
+05: Montagem gerada com IA do autor em um pátio universitário. Projeto 4: investigar um arquivo binário simples e criar um leitor em Python.
+06: Montagem gerada com IA do autor em uma bancada de eletrônica. Projeto 5: identificar componentes e conexões de uma placa desligada e desenhar seu esquema.
